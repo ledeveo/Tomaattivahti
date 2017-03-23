@@ -1,5 +1,5 @@
 # Tomaattivahti
-Tomaatin kasvatuksen olosuhteita valvova järjestelmä
+Tomaatin kasvatuksen olosuhteita valvova järjestelmä<br>
 Tekijät: Leo Koskiluoma, Juuso Puroila
 <table>
 <tbody>
