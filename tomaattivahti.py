@@ -26,11 +26,11 @@ def isfloat(value):
 def send_alert():
     return requests.post(
 
-# replace your Mailgun api token, key and email recipient
+# replace your Mailgun api token, key and email sender/recipient
 #
 #           "https://api.mailgun.net/"
 #           auth=("api", ""),
-#           data={"from": "Tomaattivahti <",
+#           data={"from": "Tomaattivahti",
 #                  "to": [""],
                     "subject": "Alert",
                     "text": alertmessage})
